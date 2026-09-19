@@ -1,4 +1,4 @@
-# 📱 ProMoTech
+# ProMoTech
 
 Aplicativo mobile onde usuários compartilham fotos de produtos de tecnologia que compraram, junto com o preço e onde compraram — permitindo que outros usuários pesquisem preços antes de decidir uma compra.
 
